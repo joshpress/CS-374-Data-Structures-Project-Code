@@ -1,0 +1,11 @@
+item_id_x,source_item_id,edge_property_id,target_item_id,item_id_y,en_label_src,en_description_src,item_id,en_label_tgt,en_description_tgt,property_id,en_alias
+160453,160453,910,10064421,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,10064421,Category:Simple Mail Transfer Protocol,Wikimedia category,910,main category
+160453,160453,1343,47167548,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47167548,RFC 2554: SMTP Service Extension for Authentication,request for comments publication,1343,described in source
+52,52,17,30,52,Wikipedia,online encyclopedia that anyone can edit,30,United States of America,federal republic in North America,17,host country
+52,52,31,615699,52,Wikipedia,online encyclopedia that anyone can edit,615699,Internet encyclopedia,encyclopedia accessible via the World Wide Web,31,is a
+56876444,56876444,31,5398426,56876444,The Mandalorian,American space opera streaming television series,5398426,television series,connected set of television program episodes under the same title,31,is a
+56876444,56876444,58,295964,56876444,The Mandalorian,American space opera streaming television series,295964,Jon Favreau,"American actor, director, and screenwriter",58,scriptwriter
+42759035,42759035,31,11424,42759035,Joker,2019 film by Todd Phillips,11424,film,sequence of images that give the impression of movement,31,is a
+42759035,42759035,57,362824,42759035,Joker,2019 film by Todd Phillips,362824,Todd Phillips,"American director, producer, screenwriter, and actor",57,directed by
+1845,1845,31,179461,1845,Bible,collection of sacred books in Judaism and Christianity,179461,religious text,type of creative work,31,is a
+1845,1845,31,47461344,1845,Bible,collection of sacred books in Judaism and Christianity,47461344,written work,"any creative work expressed in writing like: inscriptions, manuscripts, documents or maps",31,is a

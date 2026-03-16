@@ -1,0 +1,437 @@
+item_id_x,source_item_id,edge_property_id,target_item_id,item_id_y,en_label_src,en_description_src,item_id,en_label_tgt,en_description_tgt,property_id,en_alias
+160453,160453,910,10064421,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,10064421,Category:Simple Mail Transfer Protocol,Wikimedia category,910.0,main category
+160453,160453,1343,47167548,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47167548,RFC 2554: SMTP Service Extension for Authentication,request for comments publication,1343.0,described in source
+160453,160453,1343,47248815,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47248815,RFC 7293: The Require-Recipient-Valid-Since Header Field and SMTP Service Extension,request for comments publication,1343.0,described in source
+160453,160453,1343,47266281,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47266281,RFC 4954: SMTP Service Extension for Authentication,request for comments publication,1343.0,described in source
+160453,160453,1343,47276110,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47276110,RFC 1090: SMTP on X.25,request for comments publication,1343.0,described in source
+160453,160453,1343,47278043,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47278043,RFC 7672: SMTP Security via Opportunistic DNS-Based Authentication of Named Entities (DANE) Transport Layer Security (TLS),request for comments publication,1343.0,described in source
+160453,160453,1343,47298285,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47298285,RFC 1891: SMTP Service Extension for Delivery Status Notifications,request for comments publication,1343.0,described in source
+160453,160453,1343,47445498,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47445498,RFC 1426: SMTP Service Extension for 8bit-MIMEtransport,request for comments publication,1343.0,described in source
+160453,160453,1343,47455433,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47455433,RFC 3974: SMTP Operational Experience in Mixed IPv4/v6 Environments,request for comments publication,1343.0,described in source
+160453,160453,1343,47455440,160453,Simple Mail Transfer Protocol,Internet protocol used for relaying e-mails,47455440,RFC 1427: SMTP Service Extension for Message Size Declaration,request for comments publication,1343.0,described in source
+52,52,17,30,52,Wikipedia,online encyclopedia that anyone can edit,30,United States of America,federal republic in North America,17.0,host country
+52,52,31,615699,52,Wikipedia,online encyclopedia that anyone can edit,615699,Internet encyclopedia,encyclopedia accessible via the World Wide Web,31.0,is a
+52,52,31,1293664,52,Wikipedia,online encyclopedia that anyone can edit,1293664,open content,creative work that others can copy or modify,31.0,is a
+52,52,31,14827288,52,Wikipedia,online encyclopedia that anyone can edit,14827288,Wikimedia project,project hosted by the WikimediaFoundation,31.0,is a
+52,52,31,15633582,52,Wikipedia,online encyclopedia that anyone can edit,15633582,MediaWiki website,site whose software engine is MediaWiki,31.0,is a
+52,52,98,876040,52,Wikipedia,online encyclopedia that anyone can edit,876040,Wikipedia community,"volunteer communities that write, edit and maintain the various language editions of Wikipedia",98.0,compiler
+52,52,112,181,52,Wikipedia,online encyclopedia that anyone can edit,181,Jimmy Wales,Wikipedia co-founder and American Internet entrepreneur,112.0,co-founder
+52,52,112,185,52,Wikipedia,online encyclopedia that anyone can edit,185,Larry Sanger,"American former professor, co-founder of Wikipedia, founder of Citizendium and other projects",112.0,co-founder
+52,52,127,180,52,Wikipedia,online encyclopedia that anyone can edit,180,Wikimedia Foundation,American non-profit charitable organization,127.0,is owned by
+52,52,137,180,52,Wikipedia,online encyclopedia that anyone can edit,180,Wikimedia Foundation,American non-profit charitable organization,137.0,service operator
+56876444,56876444,31,5398426,56876444,The Mandalorian,American space opera streaming television series,5398426,television series,connected set of television program episodes under the same title,31.0,is a
+56876444,56876444,58,295964,56876444,The Mandalorian,American space opera streaming television series,295964,Jon Favreau,"American actor, director, and screenwriter",58.0,scriptwriter
+56876444,56876444,86,1358202,56876444,The Mandalorian,American space opera streaming television series,1358202,Ludwig Göransson,Swedish composer,86.0,songwriter
+56876444,56876444,136,336059,56876444,The Mandalorian,American space opera streaming television series,336059,science fiction,television genre,136.0,music genre
+56876444,56876444,136,4235011,56876444,The Mandalorian,American space opera streaming television series,4235011,space western,science fiction subgenre which uses the themes and tropes of Westerns within science fiction stories,136.0,music genre
+56876444,56876444,161,44131,56876444,The Mandalorian,American space opera streaming television series,44131,Werner Herzog,"German film director, producer, screenwriter, actor and opera director",161.0,starring
+56876444,56876444,161,188018,56876444,The Mandalorian,American space opera streaming television series,188018,Nick Nolte,"actor, film producer",161.0,starring
+56876444,56876444,161,233017,56876444,The Mandalorian,American space opera streaming television series,233017,Gina Carano,"American actress, television personality, fitness model and mixed martial artist",161.0,starring
+56876444,56876444,161,254205,56876444,The Mandalorian,American space opera streaming television series,254205,Ming-Na Wen,Macau-born American actress,161.0,starring
+56876444,56876444,161,266231,56876444,The Mandalorian,American space opera streaming television series,266231,Omid Abtahi,American actor,161.0,starring
+42759035,42759035,31,11424,42759035,Joker,2019 film by Todd Phillips,11424,film,sequence of images that give the impression of movement,31.0,is a
+42759035,42759035,57,362824,42759035,Joker,2019 film by Todd Phillips,362824,Todd Phillips,"American director, producer, screenwriter, and actor",57.0,directed by
+42759035,42759035,58,362824,42759035,Joker,2019 film by Todd Phillips,362824,Todd Phillips,"American director, producer, screenwriter, and actor",58.0,scriptwriter
+42759035,42759035,58,1671377,42759035,Joker,2019 film by Todd Phillips,1671377,Scott Silver,"American film director, screenwriter",58.0,scriptwriter
+42759035,42759035,86,433734,42759035,Joker,2019 film by Todd Phillips,433734,Hildur Guðnadóttir,Icelandic musician and composer,86.0,songwriter
+42759035,42759035,136,130232,42759035,Joker,2019 film by Todd Phillips,130232,drama film,film genre,136.0,music genre
+42759035,42759035,136,959790,42759035,Joker,2019 film by Todd Phillips,959790,crime film,cinematic genre inspired by and analogous to the crime fiction literary genre,136.0,music genre
+42759035,42759035,136,2484376,42759035,Joker,2019 film by Todd Phillips,2484376,thriller film,film genre,136.0,music genre
+42759035,42759035,144,217533,42759035,Joker,2019 film by Todd Phillips,217533,Joker,fictional character throughout the DC Universe,144.0,fork of
+42759035,42759035,161,36949,42759035,Joker,2019 film by Todd Phillips,36949,Robert De Niro,"American actor, director and producer",161.0,starring
+1845,1845,31,179461,1845,Bible,collection of sacred books in Judaism and Christianity,179461,religious text,type of creative work,31.0,is a
+1845,1845,31,47461344,1845,Bible,collection of sacred books in Judaism and Christianity,47461344,written work,"any creative work expressed in writing like: inscriptions, manuscripts, documents or maps",31.0,is a
+1845,1845,136,179461,1845,Bible,collection of sacred books in Judaism and Christianity,179461,religious text,type of creative work,136.0,music genre
+1845,1845,407,28602,1845,Bible,collection of sacred books in Judaism and Christianity,28602,Aramaic language,"language belonging to the Semitic family, part of the Northwest Semitic subfamily",407.0,broadcasting language
+1845,1845,407,107358,1845,Bible,collection of sacred books in Judaism and Christianity,107358,Koine Greek,common dialect of Greek spoken and written during the Hellenistic period (300 BC—AD 330),407.0,broadcasting language
+1845,1845,407,1982248,1845,Bible,collection of sacred books in Judaism and Christianity,1982248,Biblical Hebrew,stage of the Hebrew language written and spoken during the composition of the Bible,407.0,broadcasting language
+1845,1845,527,18813,1845,Bible,collection of sacred books in Judaism and Christianity,18813,New Testament,second division of the Christian biblical canon,527.0,formed from
+1845,1845,527,19786,1845,Bible,collection of sacred books in Judaism and Christianity,19786,Old Testament,"part of the Christian Bible, composed prior to the 1st century BCE, mostly consisting of texts inherited from Judaism",527.0,formed from
+1845,1845,747,29334,1845,Bible,collection of sacred books in Judaism and Christianity,29334,Septuagint,translation of the Hebrew Bible and other books into the Greek language,747.0,editions
+1845,1845,747,129906,1845,Bible,collection of sacred books in Judaism and Christianity,129906,Codex Argenteus,Gothic bible translation,747.0,editions
+24666782,24666782,31,7889,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,7889,video game,electronic game that involves interaction with a user interface to generate visual feedback on a video device such as a TV screen or computer monitor,31.0,is a
+24666782,24666782,57,315577,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,315577,Hideo Kojima,Japanese video game designer,57.0,directed by
+24666782,24666782,58,315577,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,315577,Hideo Kojima,Japanese video game designer,58.0,scriptwriter
+24666782,24666782,86,59780390,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,59780390,Ludvig Forssell,"Swedish composer, audio director and songwriter",86.0,songwriter
+24666782,24666782,123,18594,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,18594,Sony Interactive Entertainment,American video game subsidiary of Sony,123.0,book publisher
+24666782,24666782,123,2068658,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,2068658,505 Games,video game publishing division of Digital Bros,123.0,book publisher
+24666782,24666782,136,270948,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,270948,action game,video game genre,136.0,music genre
+24666782,24666782,136,858523,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,858523,stealth game,video game genre,136.0,music genre
+24666782,24666782,162,315577,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,315577,Hideo Kojima,Japanese video game designer,162.0,record producer
+24666782,24666782,178,337910,24666782,Death Stranding,2019 open world action video game developed by Kojima Productions,337910,Guerrilla Games,Dutch video game development company,178.0,developed by
+320670,320670,31,3937,320670,SN 1604,Supernova,3937,supernova,star exploding at the end of its stellar lifespan,31.0,is a
+320670,320670,59,8906,320670,SN 1604,Supernova,8906,Ophiuchus,zodiac constellation straddling the celestial equator,59.0,part of constellation
+320670,320670,361,321,320670,SN 1604,Supernova,321,Milky Way,spiral galaxy in the Local Group containing the Solar System and the Earth,361.0,meronym of
+320670,320670,6259,1264450,320670,SN 1604,Supernova,1264450,J2000.0,calendar date,,
+39072454,39072454,31,11424,39072454,Terminator: Dark Fate,2019 film by Tim Miller,11424,film,sequence of images that give the impression of movement,31.0,is a
+39072454,39072454,57,19561563,39072454,Terminator: Dark Fate,2019 film by Tim Miller,19561563,Tim Miller,American film director,57.0,directed by
+39072454,39072454,58,269895,39072454,Terminator: Dark Fate,2019 film by Tim Miller,269895,Gale Anne Hurd,American film producer and screenwriter,58.0,scriptwriter
+39072454,39072454,58,352010,39072454,Terminator: Dark Fate,2019 film by Tim Miller,352010,David S. Goyer,"American screenwriter, film director, novelist, and comic book writer",58.0,scriptwriter
+39072454,39072454,58,2679090,39072454,Terminator: Dark Fate,2019 film by Tim Miller,2679090,Billy Ray,"American screenwriter, television writer and film director",58.0,scriptwriter
+39072454,39072454,58,6288874,39072454,Terminator: Dark Fate,2019 film by Tim Miller,6288874,Josh Friedman,American screenwriter,58.0,scriptwriter
+39072454,39072454,86,266429,39072454,Terminator: Dark Fate,2019 film by Tim Miller,266429,Junkie XL,Dutch DJ,86.0,songwriter
+39072454,39072454,136,188473,39072454,Terminator: Dark Fate,2019 film by Tim Miller,188473,action film,film genre,136.0,music genre
+39072454,39072454,136,471839,39072454,Terminator: Dark Fate,2019 film by Tim Miller,471839,science fiction film,film genre,136.0,music genre
+39072454,39072454,136,2973181,39072454,Terminator: Dark Fate,2019 film by Tim Miller,2973181,speculative fiction film,film genre,136.0,music genre
+29057443,29057443,31,11424,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,11424,film,sequence of images that give the impression of movement,31.0,is a
+29057443,29057443,57,41148,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,41148,Martin Scorsese,"American-Italian film director, screenwriter aslo producer and actor",57.0,directed by
+29057443,29057443,58,291141,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,291141,Steven Zaillian,American film director,58.0,scriptwriter
+29057443,29057443,86,117249,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,117249,Robbie Robertson,Canadian recording artist; singer-songwriter and guitarist,86.0,songwriter
+29057443,29057443,136,130232,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,130232,drama film,film genre,136.0,music genre
+29057443,29057443,136,645928,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,645928,biographical film,film genre; dramatizes the life of an actual person or people,136.0,music genre
+29057443,29057443,144,67923105,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,67923105,I Heard You Paint Houses,,144.0,fork of
+29057443,29057443,161,20178,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,20178,Joe Pesci,"American actor, comedian and musician",161.0,starring
+29057443,29057443,161,36949,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,36949,Robert De Niro,"American actor, director and producer",161.0,starring
+29057443,29057443,161,41163,29057443,The Irishman,2019 epic crime film directed by Martin Scorsese,41163,Al Pacino,American stage and film actor and director,161.0,starring
+56881169,56881169,31,11424,56881169,Doctor Sleep,2019 film by Mike Flanagan,11424,film,sequence of images that give the impression of movement,31.0,is a
+56881169,56881169,57,19668417,56881169,Doctor Sleep,2019 film by Mike Flanagan,19668417,Mike Flanagan,American film director and film editor,57.0,directed by
+56881169,56881169,58,419454,56881169,Doctor Sleep,2019 film by Mike Flanagan,419454,Akiva Goldsman,American film producer,58.0,scriptwriter
+56881169,56881169,58,19668417,56881169,Doctor Sleep,2019 film by Mike Flanagan,19668417,Mike Flanagan,American film director and film editor,58.0,scriptwriter
+56881169,56881169,86,41903748,56881169,Doctor Sleep,2019 film by Mike Flanagan,41903748,The Newton Brothers,,86.0,songwriter
+56881169,56881169,136,200092,56881169,Doctor Sleep,2019 film by Mike Flanagan,200092,horror film,film genre,136.0,music genre
+56881169,56881169,144,3657739,56881169,Doctor Sleep,2019 film by Mike Flanagan,3657739,Doctor Sleep,novel by Stephen King,144.0,fork of
+56881169,56881169,155,186341,56881169,Doctor Sleep,2019 film by Mike Flanagan,186341,The Shining,1980 British-American horror film by Stanley Kubrick,155.0,succeeds to
+56881169,56881169,161,165518,56881169,Doctor Sleep,2019 film by Mike Flanagan,165518,Ewan McGregor,Scottish actor,161.0,starring
+56881169,56881169,161,342788,56881169,Doctor Sleep,2019 film by Mike Flanagan,342788,Bruce Greenwood,Canadian actor and musician,161.0,starring
+131581,131581,19,525635,131581,Henry V of England,"King of England, born in Wales",525635,Monmouth Castle,Grade I listed building in Monmouth. 11th-century castle,19.0,birthplace
+131581,131581,20,663673,131581,Henry V of England,"King of England, born in Wales",663673,Château de Vincennes,castle,20.0,deathplace
+131581,131581,21,6581097,131581,Henry V of England,"King of England, born in Wales",6581097,male,human gender (use with P21),21.0,gender identity
+131581,131581,22,161866,131581,Henry V of England,"King of England, born in Wales",161866,Henry IV of England,King of England and Lord of Ireland,22.0,dad
+131581,131581,25,236287,131581,Henry V of England,"King of England, born in Wales",236287,Mary de Bohun,wife of King Henry IV of England,25.0,mum
+131581,131581,26,229192,131581,Henry V of England,"King of England, born in Wales",229192,Catherine of Valois,Queen consort of England,26.0,husband
+131581,131581,27,179876,131581,Henry V of England,"King of England, born in Wales",179876,Kingdom of England,historic sovereign kingdom on the British Isles (927–1649; 1660–1707),27.0,citizen of
+131581,131581,31,5,131581,Henry V of England,"King of England, born in Wales",5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+131581,131581,39,18810062,131581,Henry V of England,"King of England, born in Wales",18810062,monarch of England,monarch of the Kingdom of England,39.0,political office held
+131581,131581,40,160337,131581,Henry V of England,"King of England, born in Wales",160337,Henry VI of England,King of England,40.0,son
+3029296,3029296,17,30,3029296,F5 Networks,computer networking appliance developer,30,United States of America,federal republic in North America,17.0,host country
+3029296,3029296,31,1058914,3029296,F5 Networks,computer networking appliance developer,1058914,software company,company that develops software,31.0,is a
+3029296,3029296,31,4830453,3029296,F5 Networks,computer networking appliance developer,4830453,business,"organization involved in commercial, industrial, or professional activity",31.0,is a
+3029296,3029296,31,6881511,3029296,F5 Networks,computer networking appliance developer,6881511,enterprise,"for-profit organizational unit producing goods or services, which benefits from a certain degree of autonomy in decision-making, especially for the allocation of its current resources",31.0,is a
+3029296,3029296,159,5083,3029296,F5 Networks,computer networking appliance developer,5083,Seattle,"county seat of King County, Washington, United States",159.0,head office location
+3029296,3029296,355,6953954,3029296,F5 Networks,computer networking appliance developer,6953954,"NGINX, Inc.",,355.0,subsidiary company
+3029296,3029296,361,242345,3029296,F5 Networks,computer networking appliance developer,242345,S&P 500,United States stock market index,361.0,meronym of
+3029296,3029296,414,82059,3029296,F5 Networks,computer networking appliance developer,82059,NASDAQ,American stock exchange,414.0,exchange
+3029296,3029296,463,67904121,3029296,F5 Networks,computer networking appliance developer,67904121,CVE Numbering Authorities,organizations authorized to assign CVE IDs to vulnerabilities affecting products,,
+3029296,3029296,800,42533222,3029296,F5 Networks,computer networking appliance developer,42533222,BIG-IP,load balancer product,800.0,literary works
+46093105,46093105,17,145,46093105,opinion polling for the 2019 United Kingdom general election,,145,United Kingdom,constitutional monarchy in Western Europe; formed in 1927,17.0,host country
+46093105,46093105,155,25041143,46093105,opinion polling for the 2019 United Kingdom general election,,25041143,opinion polling for the 2017 United Kingdom general election,,155.0,succeeds to
+46093105,46093105,279,49958,46093105,opinion polling for the 2019 United Kingdom general election,,49958,opinion poll,type of survey,279.0,rdfs:subClassOf
+46093105,46093105,921,30173038,46093105,opinion polling for the 2019 United Kingdom general election,,30173038,2019 United Kingdom general election,general election to be held in the United Kingdom,921.0,index term
+46093105,46093105,1269,30173038,46093105,opinion polling for the 2019 United Kingdom general election,,30173038,2019 United Kingdom general election,general election to be held in the United Kingdom,1269.0,aspect of
+866,866,17,30,866,YouTube,video-sharing service owned by Google,30,United States of America,federal republic in North America,17.0,host country
+866,866,31,11033,866,YouTube,video-sharing service owned by Google,11033,mass media,media technologies that are intended to reach a large audience by mass communication,31.0,is a
+866,866,31,35127,866,YouTube,video-sharing service owned by Google,35127,website,set of related web pages served from a single web domain,31.0,is a
+866,866,31,241317,866,YouTube,video-sharing service owned by Google,241317,computing platform,hardware architecture and/or software framework,31.0,is a
+866,866,31,559856,866,YouTube,video-sharing service owned by Google,559856,video hosting service,"allows individual end users to upload and share personal, business, or royalty-free videos and to watch them legally",31.0,is a
+866,866,31,15265344,866,YouTube,video-sharing service owned by Google,15265344,broadcaster,organization responsible for production and transmission of radio and television programs,31.0,is a
+866,866,50,76694,866,YouTube,video-sharing service owned by Google,76694,Jawed Karim,co-founder of YouTube,50.0,written by
+866,866,50,370299,866,YouTube,video-sharing service owned by Google,370299,Chad Hurley,American businessman,50.0,written by
+866,866,50,379396,866,YouTube,video-sharing service owned by Google,379396,Steve Chen,Taiwanese-American businessman,50.0,written by
+866,866,112,76694,866,YouTube,video-sharing service owned by Google,76694,Jawed Karim,co-founder of YouTube,112.0,co-founder
+171,171,31,121359,171,wiki,type of website that visitors can edit,121359,infrastructure,"fundamental facilities and systems serving a country, city, or other areas",31.0,is a
+171,171,61,7637,171,wiki,type of website that visitors can edit,7637,Ward Cunningham,American computer programmer who developed the first wiki,61.0,inventor
+171,171,144,466,171,wiki,type of website that visitors can edit,466,World Wide Web,system of interlinked hypertext documents accessed via the Internet,144.0,fork of
+171,171,279,35127,171,wiki,type of website that visitors can edit,35127,website,set of related web pages served from a single web domain,279.0,rdfs:subClassOf
+171,171,279,5155040,171,wiki,type of website that visitors can edit,5155040,community project,,279.0,rdfs:subClassOf
+171,171,910,5612582,171,wiki,type of website that visitors can edit,5612582,Category:Wikis,Wikimedia category,910.0,main category
+171,171,1424,18857008,171,wiki,type of website that visitors can edit,18857008,Template:Wiki,Wikimedia template,1424.0,topic's main infobox
+171,171,1889,52,171,wiki,type of website that visitors can edit,52,Wikipedia,online encyclopedia that anyone can edit,1889.0,is not
+171,171,2738,23766486,171,wiki,type of website that visitors can edit,23766486,list values as qualifiers,dummy value for P2737 / P2738 or P1552 only; see usage instructions on item page,,
+23688132,23688132,31,2122052,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,2122052,qualification,sports competition held to determine placement of participants in a successive event or series,31.0,is a
+23688132,23688132,31,27020041,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,27020041,sports season,"season of a sports league or competition, generally a specific one year period",31.0,is a
+23688132,23688132,527,59348807,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,59348807,UEFA Euro 2020 qualifying Group A,,527.0,formed from
+23688132,23688132,527,59348808,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,59348808,UEFA Euro 2020 qualifying Group B,,527.0,formed from
+23688132,23688132,527,59348809,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,59348809,UEFA Euro 2020 qualifying Group C,,527.0,formed from
+23688132,23688132,527,59348810,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,59348810,UEFA Euro 2020 qualifying Group D,,527.0,formed from
+23688132,23688132,527,59348845,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,59348845,UEFA Euro 2020 qualifying Group E,,527.0,formed from
+23688132,23688132,527,59348847,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,59348847,UEFA Euro 2020 qualifying Group F,,527.0,formed from
+23688132,23688132,527,59348848,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,59348848,UEFA Euro 2020 qualifying Group G,,527.0,formed from
+23688132,23688132,527,59348849,23688132,UEFA Euro 2020 qualifying,qualifier for UEFA Euro 2020,59348849,UEFA Euro 2020 qualifying Group H,,527.0,formed from
+9682,9682,19,124184,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",124184,Mayfair,"area of central London, England",19.0,birthplace
+9682,9682,21,6581072,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",6581072,female,human gender (use with P21),21.0,gender identity
+9682,9682,22,280856,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",280856,George VI,King of the United Kingdom,22.0,dad
+9682,9682,25,10633,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",10633,Queen Elizabeth The Queen Mother,"Queen consort of King George VI, mother of Queen Elizabeth II",25.0,mum
+9682,9682,26,80976,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",80976,"Prince Philip, Duke of Edinburgh","member of the British Royal Family, consort to Queen Elizabeth II",26.0,husband
+9682,9682,27,145,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",145,United Kingdom,constitutional monarchy in Western Europe; formed in 1927,27.0,citizen of
+9682,9682,31,5,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+9682,9682,31,19643,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",19643,queen regnant,female monarch who rules a country in her own right,31.0,is a
+9682,9682,39,9134365,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",9134365,monarch of the United Kingdom,king or queen of the United Kingdom and its overseas territories,39.0,political office held
+9682,9682,40,43274,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",43274,"Charles, Prince of Wales",son of Queen Elizabeth II of the United Kingdom,40.0,son
+55815650,55815650,31,11424,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,11424,film,sequence of images that give the impression of movement,31.0,is a
+55815650,55815650,57,219373,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,219373,Elizabeth Banks,"American actress, film producer, and director",57.0,directed by
+55815650,55815650,58,219373,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,219373,Elizabeth Banks,"American actress, film producer, and director",58.0,scriptwriter
+55815650,55815650,58,1138605,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,1138605,Craig Mazin,American director and producer,58.0,scriptwriter
+55815650,55815650,86,251144,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,251144,Brian Tyler,"American composer, producer, conductor, and film producer",86.0,songwriter
+55815650,55815650,136,157443,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,157443,comedy film,genre of film in which the main emphasis is on humour,136.0,music genre
+55815650,55815650,136,188473,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,188473,action film,film genre,136.0,music genre
+55815650,55815650,136,319221,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,319221,adventure film,film genre,136.0,music genre
+55815650,55815650,144,617274,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,617274,Charlie's Angels,1976 American crime drama television series,144.0,fork of
+55815650,55815650,161,16296,55815650,Charlie's Angels,2019 American film by Elizabeth Banks,16296,Patrick Stewart,"English film, television and stage actor",161.0,starring
+2904131,2904131,19,18419,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,18419,Brooklyn,"borough of New York City, New York, United States",19.0,birthplace
+2904131,2904131,20,1925847,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,1925847,"Metropolitan Correctional Center, New York City",federal detention facility in New York City,20.0,deathplace
+2904131,2904131,21,6581097,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,6581097,male,human gender (use with P21),21.0,gender identity
+2904131,2904131,27,30,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,30,United States of America,federal republic in North America,27.0,citizen of
+2904131,2904131,31,5,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+2904131,2904131,69,130981,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,130981,Cooper Union,college in New York City,69.0,alma mater
+2904131,2904131,69,946028,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,946028,Courant Institute of Mathematical Sciences,,69.0,alma mater
+2904131,2904131,69,6471428,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,6471428,Lafayette High School,"school located in the Bath Beach section of Brooklyn, New York City, New York",69.0,alma mater
+2904131,2904131,106,43845,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,43845,businessperson,person involving in activities for the purpose of generating revenue,106.0,profession
+2904131,2904131,108,813018,2904131,Jeffrey Epstein,American financier and sentenced child sex offender,813018,Bear Stearns,company,108.0,workplace
+18419,18419,6,5385992,18419,Brooklyn,"borough of New York City, New York, United States",5385992,Eric Adams,Borough President,6.0,executive power headed by
+18419,18419,17,30,18419,Brooklyn,"borough of New York City, New York, United States",30,United States of America,federal republic in North America,17.0,host country
+18419,18419,31,408804,18419,Brooklyn,"borough of New York City, New York, United States",408804,borough of New York City,administrative division of New York City,31.0,is a
+18419,18419,47,11299,18419,Brooklyn,"borough of New York City, New York, United States",11299,Manhattan,"borough of New York City, New York, United States",47.0,borders
+18419,18419,47,18424,18419,Brooklyn,"borough of New York City, New York, United States",18424,Queens,"borough of New York City, New York, United States",47.0,borders
+18419,18419,47,18432,18419,Brooklyn,"borough of New York City, New York, United States",18432,Staten Island,island in the United States of America; borough of New York City,47.0,borders
+18419,18419,47,26339,18419,Brooklyn,"borough of New York City, New York, United States",26339,Jersey City,"city in New Jersey, United States",47.0,borders
+18419,18419,47,812589,18419,Brooklyn,"borough of New York City, New York, United States",812589,Bayonne,"city in New Jersey, USA",47.0,borders
+18419,18419,131,60,18419,Brooklyn,"borough of New York City, New York, United States",60,New York City,"city in state of New York, largest city in the United States by population",131.0,located in the administrative unit
+18419,18419,138,615732,18419,Brooklyn,"borough of New York City, New York, United States",615732,Breukelen,"former municipality in the Netherlands, on the Vecht",138.0,eponym
+65091162,65091162,31,21156425,65091162,Rumble Series,"November 24th, 2019",21156425,wrestling event,,31.0,is a
+65091162,65091162,179,59759,65091162,Rumble Series,"November 24th, 2019",59759,Survivor Series,annual WWE professional wrestling event,179.0,part of series
+73746504,73746504,31,3464665,73746504,"Rick and Morty, season 4",season of television series,3464665,television series season,set of episodes produced for a television series,31.0,is a
+73746504,73746504,179,15659308,73746504,"Rick and Morty, season 4",season of television series,15659308,Rick and Morty,American sitcom,179.0,part of series
+50276507,50276507,31,11424,50276507,Gemini Man,2019 film directed by Ang Lee,11424,film,sequence of images that give the impression of movement,31.0,is a
+50276507,50276507,57,160726,50276507,Gemini Man,2019 film directed by Ang Lee,160726,Ang Lee,"Taiwanese director, screenwriter and film producer",57.0,directed by
+50276507,50276507,58,360737,50276507,Gemini Man,2019 film directed by Ang Lee,360737,Andrew Niccol,"New Zealadn screenwriter, producer and film director",58.0,scriptwriter
+50276507,50276507,58,503997,50276507,Gemini Man,2019 film directed by Ang Lee,503997,David Benioff,American author and producer,58.0,scriptwriter
+50276507,50276507,58,912327,50276507,Gemini Man,2019 film directed by Ang Lee,912327,Brian Helgeland,American film director,58.0,scriptwriter
+50276507,50276507,58,2679090,50276507,Gemini Man,2019 film directed by Ang Lee,2679090,Billy Ray,"American screenwriter, television writer and film director",58.0,scriptwriter
+50276507,50276507,58,47544098,50276507,Gemini Man,2019 film directed by Ang Lee,47544098,Darren Lemke,American screenwriter,58.0,scriptwriter
+50276507,50276507,86,608628,50276507,Gemini Man,2019 film directed by Ang Lee,608628,Lorne Balfe,British composer,86.0,songwriter
+50276507,50276507,136,130232,50276507,Gemini Man,2019 film directed by Ang Lee,130232,drama film,film genre,136.0,music genre
+50276507,50276507,136,188473,50276507,Gemini Man,2019 film directed by Ang Lee,188473,action film,film genre,136.0,music genre
+373501,373501,17,27,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,27,Ireland,republic covering major parts of the island of Ireland,17.0,host country
+373501,373501,17,28,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,28,Hungary,republic in Central Europe,17.0,host country
+373501,373501,17,29,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,29,Spain,constitutional monarchy in Southwest Europe,17.0,host country
+373501,373501,17,31,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,31,Belgium,federal constitutional monarchy in Western Europe,17.0,host country
+373501,373501,17,35,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,35,Denmark,sovereign state and Scandinavian country in northern Europe,17.0,host country
+373501,373501,17,38,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,38,Italy,"Republic in Southern Europe, member of the European Union",17.0,host country
+373501,373501,17,55,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,55,Netherlands,constituent country of the Kingdom of the Netherlands,17.0,host country
+373501,373501,17,145,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,145,United Kingdom,constitutional monarchy in Western Europe; formed in 1927,17.0,host country
+373501,373501,17,159,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,159,Russia,transcontinental country in Eastern Europe and Northern Asia,17.0,host country
+373501,373501,17,183,373501,UEFA Euro 2020,2020 edition of the UEFA Euro,183,Germany,federal parliamentary republic in central-western Europe,17.0,host country
+119827,119827,176,312,119827,Apple Network Server,line of PowerPC-based server computers manufactured by Apple,312,Apple Inc.,"American producer of hardware, software, and services, based in Cupertino, California",176.0,manufactured by
+119827,119827,178,312,119827,Apple Network Server,line of PowerPC-based server computers manufactured by Apple,312,Apple Inc.,"American producer of hardware, software, and services, based in Cupertino, California",178.0,developed by
+119827,119827,279,23444,119827,Apple Network Server,line of PowerPC-based server computers manufactured by Apple,23444,white,color,279.0,rdfs:subClassOf
+56153643,56153643,31,5398426,56153643,Watchmen,American TV series,5398426,television series,connected set of television program episodes under the same title,31.0,is a
+56153643,56153643,57,3341067,56153643,Watchmen,American TV series,3341067,Nicole Kassell,American film director,57.0,directed by
+56153643,56153643,58,310556,56153643,Watchmen,American TV series,310556,Damon Lindelof,American film producer and writer,58.0,scriptwriter
+56153643,56153643,86,282722,56153643,Watchmen,American TV series,282722,Trent Reznor,American musician,86.0,songwriter
+56153643,56153643,86,520346,56153643,Watchmen,American TV series,520346,Atticus Ross,"English musician, composer and record producer",86.0,songwriter
+56153643,56153643,136,1366112,56153643,Watchmen,American TV series,1366112,television drama,television genre,136.0,music genre
+56153643,56153643,144,128444,56153643,Watchmen,American TV series,128444,Watchmen,superhero comic book series by Alan Moore and Dave Gibbons,144.0,fork of
+56153643,56153643,161,35011,56153643,Watchmen,American TV series,35011,Frances Fisher,English-born American actress,161.0,starring
+56153643,56153643,161,171745,56153643,Watchmen,American TV series,171745,Jeremy Irons,English actor,161.0,starring
+56153643,56153643,161,234544,56153643,Watchmen,American TV series,234544,Regina King,American actress and director,161.0,starring
+30,30,6,22686,30,United States of America,federal republic in North America,22686,Donald Trump,45th and current president of the United States,6.0,executive power headed by
+30,30,17,30,30,United States of America,federal republic in North America,30,United States of America,federal republic in North America,17.0,host country
+30,30,30,49,30,United States of America,federal republic in North America,49,North America,continent on the Earth's northwestern quadrant,,
+30,30,30,538,30,United States of America,federal republic in North America,538,Oceania,"geographic region comprising Australasia, Melanesia, Micronesia and Polynesia",,
+30,30,31,6256,30,United States of America,federal republic in North America,6256,country,distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics,31.0,is a
+30,30,31,43702,30,United States of America,federal republic in North America,43702,federal state,"state consisting of a union of partially self-governing states or territories, united by a central (federal) government that exercizes directly on them its sovereign power",31.0,is a
+30,30,31,1520223,30,United States of America,federal republic in North America,1520223,constitutional republic,Type of republic that operates under a system of separation of powers,31.0,is a
+30,30,31,3624078,30,United States of America,federal republic in North America,3624078,sovereign state,political organization with a centralized independent government,31.0,is a
+30,30,31,5255892,30,United States of America,federal republic in North America,5255892,democratic republic,state that is both a democracy and a republic,31.0,is a
+30,30,35,22686,30,United States of America,federal republic in North America,22686,Donald Trump,45th and current president of the United States,35.0,president
+607,607,19,100,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",100,Boston,"city in and state capital of Massachusetts, United States",19.0,birthplace
+607,607,21,6581097,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",6581097,male,human gender (use with P21),21.0,gender identity
+607,607,22,22339200,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",22339200,William Henry Bloomberg,,22.0,dad
+607,607,25,22339203,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",22339203,Charlotte Bloomberg,,25.0,mum
+607,607,26,22290413,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",22290413,Susan Brown,Michael Bloomberg's ex-wife,26.0,husband
+607,607,27,30,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",30,United States of America,federal republic in North America,27.0,citizen of
+607,607,31,5,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+607,607,39,785304,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",785304,Mayor of New York City,head of the executive branch of New York City's government,39.0,political office held
+607,607,40,980958,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",980958,Georgina Bloomberg,"American equestrian, daughter of Michael Bloomberg",40.0,son
+607,607,40,17978424,607,Michael Bloomberg,"American businessman and politician, former mayor of New York City",17978424,Emma Bloomberg,,40.0,son
+54801155,54801155,31,11424,54801155,The King,2019 historical drama film,11424,film,sequence of images that give the impression of movement,31.0,is a
+54801155,54801155,57,3018459,54801155,The King,2019 historical drama film,3018459,David Michôd,Australian film director,57.0,directed by
+54801155,54801155,58,381768,54801155,The King,2019 historical drama film,381768,Joel Edgerton,Australian actor,58.0,scriptwriter
+54801155,54801155,58,3018459,54801155,The King,2019 historical drama film,3018459,David Michôd,Australian film director,58.0,scriptwriter
+54801155,54801155,86,15429514,54801155,The King,2019 historical drama film,15429514,Nicholas Britell,American composer,86.0,songwriter
+54801155,54801155,136,130232,54801155,The King,2019 historical drama film,130232,drama film,film genre,136.0,music genre
+54801155,54801155,136,17013749,54801155,The King,2019 historical drama film,17013749,historical film,film genre,136.0,music genre
+54801155,54801155,144,495954,54801155,The King,2019 historical drama film,495954,Henry V,play by Shakespeare,144.0,fork of
+54801155,54801155,144,631855,54801155,The King,2019 historical drama film,631855,"Henry IV, Part 1",play by Shakespeare,144.0,fork of
+54801155,54801155,144,1232349,54801155,The King,2019 historical drama film,1232349,"Henry IV, Part 2",play by Shakespeare,144.0,fork of
+56551019,56551019,31,11424,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,11424,film,sequence of images that give the impression of movement,31.0,is a
+56551019,56551019,57,60100,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,60100,Roland Emmerich,"German film director, screenwriter, and producer",57.0,directed by
+56551019,56551019,58,61947415,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,61947415,Wes Tooke,screenwriter,58.0,scriptwriter
+56551019,56551019,86,78652,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,78652,Harald Kloser,Austrian film producer,86.0,songwriter
+56551019,56551019,86,450156,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,450156,Thomas Wanker,Austrian composer,86.0,songwriter
+56551019,56551019,136,130232,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,130232,drama film,film genre,136.0,music genre
+56551019,56551019,136,188473,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,188473,action film,film genre,136.0,music genre
+56551019,56551019,136,369747,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,369747,war film,film genre depicting wars,136.0,music genre
+56551019,56551019,136,17013749,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,17013749,historical film,film genre,136.0,music genre
+56551019,56551019,161,187832,56551019,Midway,film project directed by Roland Emmerich with projected 2019 release,187832,Mandy Moore,American singer and actress,161.0,starring
+153815,153815,19,1529151,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,1529151,Glamis Castle,"castle in Scotland, United Kingdom",19.0,birthplace
+153815,153815,20,580652,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,580652,King Edward VII's Hospital Sister Agnes,hospital in England,20.0,deathplace
+153815,153815,21,6581072,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,6581072,female,human gender (use with P21),21.0,gender identity
+153815,153815,22,280856,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,280856,George VI,King of the United Kingdom,22.0,dad
+153815,153815,25,10633,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,10633,Queen Elizabeth The Queen Mother,"Queen consort of King George VI, mother of Queen Elizabeth II",25.0,mum
+153815,153815,26,335260,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,335260,"Antony Armstrong-Jones, 1st Earl of Snowdon",British photographer and film maker,26.0,husband
+153815,153815,27,145,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,145,United Kingdom,constitutional monarchy in Western Europe; formed in 1927,27.0,citizen of
+153815,153815,31,5,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+153815,153815,40,1040807,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,1040807,Lady Sarah Chatto,niece of Queen Elizabeth II,40.0,son
+153815,153815,40,1091237,153815,"Princess Margaret, Countess of Snowdon",younger daughter of King George VI and Queen Elizabeth The Queen Mother,1091237,"David Armstrong-Jones, 2nd Earl of Snowdon",English furniture designer; Member of the British royal family; chairman of Christie's UK,40.0,son
+24009805,24009805,19,866339,24009805,Fiona Hill,American policy adviser,866339,Bishop Auckland,"town and civil parish in County Durham, England",19.0,birthplace
+24009805,24009805,21,6581072,24009805,Fiona Hill,American policy adviser,6581072,female,human gender (use with P21),21.0,gender identity
+24009805,24009805,27,30,24009805,Fiona Hill,American policy adviser,30,United States of America,federal republic in North America,27.0,citizen of
+24009805,24009805,27,145,24009805,Fiona Hill,American policy adviser,145,United Kingdom,constitutional monarchy in Western Europe; formed in 1927,27.0,citizen of
+24009805,24009805,31,5,24009805,Fiona Hill,American policy adviser,5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+24009805,24009805,39,1162163,24009805,Fiona Hill,American policy adviser,1162163,director,person who leads a particular area of a company or organisation,39.0,political office held
+24009805,24009805,39,2824523,24009805,Fiona Hill,American policy adviser,2824523,board member,position in an organisation,39.0,political office held
+24009805,24009805,69,13371,24009805,Fiona Hill,American policy adviser,13371,Harvard University,"private research university in Cambridge, Massachusetts, United States",69.0,alma mater
+24009805,24009805,69,13371,24009805,Fiona Hill,American policy adviser,13371,Harvard University,"private research university in Cambridge, Massachusetts, United States",69.0,alma mater
+24009805,24009805,69,216273,24009805,Fiona Hill,American policy adviser,216273,University of St Andrews,"university in St Andrews, Fife, Scotland",69.0,alma mater
+60773936,60773936,31,35127,60773936,123Movies,online illlegal movie streaming site network,35127,website,set of related web pages served from a single web domain,31.0,is a
+2813,2813,31,134041,2813,Coca-Cola,carbonated soft drink,134041,cola,carbonated beverage,31.0,is a
+2813,2813,31,431289,2813,Coca-Cola,carbonated soft drink,431289,brand,identification for a good or service,31.0,is a
+2813,2813,31,1485500,2813,Coca-Cola,carbonated soft drink,1485500,tangible good,tangible asset which is the subject of trade or could come as an object of trade turnover into consideration,31.0,is a
+2813,2813,61,215959,2813,Coca-Cola,carbonated soft drink,215959,John Pemberton,"American pharmacist, inventor of Coca-Cola",61.0,inventor
+2813,2813,127,3295867,2813,Coca-Cola,carbonated soft drink,3295867,The Coca-Cola Company,American multinational beverage corporation,127.0,is owned by
+2813,2813,138,158018,2813,Coca-Cola,carbonated soft drink,158018,Erythroxylum coca,"species of plant, coca",138.0,eponym
+2813,2813,138,912522,2813,Coca-Cola,carbonated soft drink,912522,kola nut,is the fruit of the kola tree,138.0,eponym
+2813,2813,176,3295867,2813,Coca-Cola,carbonated soft drink,3295867,The Coca-Cola Company,American multinational beverage corporation,176.0,manufactured by
+2813,2813,279,147538,2813,Coca-Cola,carbonated soft drink,147538,soft drink,"non-alcoholic drink, often carbonated (sparkling)",279.0,rdfs:subClassOf
+2813,2813,495,30,2813,Coca-Cola,carbonated soft drink,30,United States of America,federal republic in North America,495.0,place of origin
+56195117,56195117,31,5398426,56195117,His Dark Materials,British fantasy television series,5398426,television series,connected set of television program episodes under the same title,31.0,is a
+56195117,56195117,57,295912,56195117,His Dark Materials,British fantasy television series,295912,Tom Hooper,British film director,57.0,directed by
+56195117,56195117,57,543546,56195117,His Dark Materials,British fantasy television series,543546,Dawn Shadforth,British music video director,57.0,directed by
+56195117,56195117,57,18030214,56195117,His Dark Materials,British fantasy television series,18030214,Otto Bathurst,British director,57.0,directed by
+56195117,56195117,58,6115483,56195117,His Dark Materials,British fantasy television series,6115483,Jack Thorne,British screenwriter,58.0,scriptwriter
+56195117,56195117,86,608628,56195117,His Dark Materials,British fantasy television series,608628,Lorne Balfe,British composer,86.0,songwriter
+56195117,56195117,136,5434357,56195117,His Dark Materials,British fantasy television series,5434357,fantasy television,genre of television programming often based on fantasy fiction works,136.0,music genre
+56195117,56195117,144,129240,56195117,His Dark Materials,British fantasy television series,129240,His Dark Materials trilogy,novel series by Philip Pullman,144.0,fork of
+56195117,56195117,161,193659,56195117,His Dark Materials,British fantasy television series,193659,James McAvoy,Scottish actor,161.0,starring
+56195117,56195117,161,262679,56195117,His Dark Materials,British fantasy television series,262679,Ruth Wilson,English actress,161.0,starring
+55081822,55081822,31,11424,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,11424,film,sequence of images that give the impression of movement,31.0,is a
+55081822,55081822,57,433893,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,433893,James Mangold,"Film director, screenwriter",57.0,directed by
+55081822,55081822,58,433893,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,433893,James Mangold,"Film director, screenwriter",58.0,scriptwriter
+55081822,55081822,58,1688756,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,1688756,Jez Butterworth,"English playwright, screenwriter and film director",58.0,scriptwriter
+55081822,55081822,58,6162846,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,6162846,Jason Keller,Screenwriter/playwright,58.0,scriptwriter
+55081822,55081822,58,17153033,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,17153033,John-Henry Butterworth,British screenwriter,58.0,scriptwriter
+55081822,55081822,86,465754,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,465754,Marco Beltrami,American composer,86.0,songwriter
+55081822,55081822,136,130232,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,130232,drama film,film genre,136.0,music genre
+55081822,55081822,136,188473,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,188473,action film,film genre,136.0,music genre
+55081822,55081822,136,645928,55081822,Ford v Ferrari,2019 American sports drama film directed by James Mangold,645928,biographical film,film genre; dramatizes the life of an actual person or people,136.0,music genre
+20707362,20707362,31,5398426,20707362,The Crown,British–American television drama series,5398426,television series,connected set of television program episodes under the same title,31.0,is a
+20707362,20707362,57,162340,20707362,The Crown,British–American television drama series,162340,Julian Jarrold,British film director,57.0,directed by
+20707362,20707362,57,313506,20707362,The Crown,British–American television drama series,313506,Stephen Daldry,British director,57.0,directed by
+20707362,20707362,57,3379043,20707362,The Crown,British–American television drama series,3379043,Philip Martin,British television director,57.0,directed by
+20707362,20707362,58,948122,20707362,The Crown,British–American television drama series,948122,Peter Morgan,British film writer and playwright,58.0,scriptwriter
+20707362,20707362,86,932744,20707362,The Crown,British–American television drama series,932744,Rupert Gregson-Williams,British composer,86.0,songwriter
+20707362,20707362,136,645928,20707362,The Crown,British–American television drama series,645928,biographical film,film genre; dramatizes the life of an actual person or people,136.0,music genre
+20707362,20707362,136,1366112,20707362,The Crown,British–American television drama series,1366112,television drama,television genre,136.0,music genre
+20707362,20707362,161,201976,20707362,The Crown,British–American television drama series,201976,Caroline Goodall,English actress,161.0,starring
+20707362,20707362,161,203268,20707362,The Crown,British–American television drama series,203268,Michael C. Hall,American actor,161.0,starring
+317638,317638,19,1998364,317638,Jimmy Hoffa,American labor union leader,1998364,Brazil,"city in Indiana, United States",19.0,birthplace
+317638,317638,20,885355,317638,Jimmy Hoffa,American labor union leader,885355,Bloomfield Hills,city in Michigan,20.0,deathplace
+317638,317638,21,6581097,317638,Jimmy Hoffa,American labor union leader,6581097,male,human gender (use with P21),21.0,gender identity
+317638,317638,27,30,317638,Jimmy Hoffa,American labor union leader,30,United States of America,federal republic in North America,27.0,citizen of
+317638,317638,31,5,317638,Jimmy Hoffa,American labor union leader,5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+317638,317638,40,711662,317638,Jimmy Hoffa,American labor union leader,711662,James P. Hoffa,American labor union leader,40.0,son
+317638,317638,40,4858710,317638,Jimmy Hoffa,American labor union leader,4858710,Barbara Ann Crancer,American judge,40.0,son
+317638,317638,106,36180,317638,Jimmy Hoffa,American labor union leader,36180,writer,person who uses written words to communicate ideas and to produce works of literature,106.0,profession
+317638,317638,106,15253558,317638,Jimmy Hoffa,American labor union leader,15253558,activist,"person working with promoting or impeding, or causing social, political, economic, or environmental change",106.0,profession
+317638,317638,106,15627169,317638,Jimmy Hoffa,American labor union leader,15627169,trade unionist,person involved in trade unions; member or supporter of a trade union,106.0,profession
+153330,153330,19,42182,153330,"Prince Andrew, Duke of York",son of Elizabeth II,42182,Buckingham Palace,official London residence and principal workplace of the British monarch,19.0,birthplace
+153330,153330,21,6581097,153330,"Prince Andrew, Duke of York",son of Elizabeth II,6581097,male,human gender (use with P21),21.0,gender identity
+153330,153330,22,80976,153330,"Prince Andrew, Duke of York",son of Elizabeth II,80976,"Prince Philip, Duke of Edinburgh","member of the British Royal Family, consort to Queen Elizabeth II",22.0,dad
+153330,153330,25,9682,153330,"Prince Andrew, Duke of York",son of Elizabeth II,9682,Elizabeth II,"queen of the UK, Canada, Australia, and New Zealand, and head of the Commonwealth of Nations",25.0,mum
+153330,153330,26,55720,153330,"Prince Andrew, Duke of York",son of Elizabeth II,55720,"Sarah, Duchess of York","British writer, charity patron, public speaker, film producer and television personality",26.0,husband
+153330,153330,27,145,153330,"Prince Andrew, Duke of York",son of Elizabeth II,145,United Kingdom,constitutional monarchy in Western Europe; formed in 1927,27.0,citizen of
+153330,153330,31,5,153330,"Prince Andrew, Duke of York",son of Elizabeth II,5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+153330,153330,39,7574704,153330,"Prince Andrew, Duke of York",son of Elizabeth II,7574704,Special Representative for International Trade and Investment,,39.0,political office held
+153330,153330,39,18952564,153330,"Prince Andrew, Duke of York",son of Elizabeth II,18952564,Member of the House of Lords,,39.0,political office held
+153330,153330,40,165657,153330,"Prince Andrew, Duke of York",son of Elizabeth II,165657,Princess Beatrice of York,"elder daughter of Prince Andrew, Duke of York",40.0,son
+13959,13959,31,901597,13959,Thanksgiving,holiday in North America,901597,public holidays in Canada,Wikimedia list article,31.0,is a
+13959,13959,31,5440534,13959,Thanksgiving,holiday in North America,5440534,federal holidays in the United States,,31.0,is a
+13959,13959,276,15,13959,Thanksgiving,holiday in North America,15,Africa,continent on the Earth's northern and southern hemispheres,276.0,moveable object location
+13959,13959,276,29,13959,Thanksgiving,holiday in North America,29,Spain,constitutional monarchy in Southwest Europe,276.0,moveable object location
+13959,13959,276,30,13959,Thanksgiving,holiday in North America,30,United States of America,federal republic in North America,276.0,moveable object location
+13959,13959,276,33,13959,Thanksgiving,holiday in North America,33,Finland,republic in Northern Europe,276.0,moveable object location
+13959,13959,276,804,13959,Thanksgiving,holiday in North America,804,Panama,republic in Central America,276.0,moveable object location
+13959,13959,279,2304773,13959,Thanksgiving,holiday in North America,2304773,harvest festival,type of festive celebration,279.0,rdfs:subClassOf
+13959,13959,837,178275,13959,Thanksgiving,holiday in North America,178275,1918-1920 flu pandemic,influenza pandemic,837.0,day of periodic occurrence
+13959,13959,837,14827175,13959,Thanksgiving,holiday in North America,14827175,second Monday in October,event occurs on the second Monday in October. Use with P837,837.0,day of periodic occurrence
+129240,129240,31,1667921,129240,His Dark Materials trilogy,novel series by Philip Pullman,1667921,novel series,set of novels that should be read in order,31.0,is a
+129240,129240,31,13593966,129240,His Dark Materials trilogy,novel series by Philip Pullman,13593966,literary trilogy,set of three books,31.0,is a
+129240,129240,50,190220,129240,His Dark Materials trilogy,novel series by Philip Pullman,190220,Philip Pullman,English author,50.0,written by
+129240,129240,123,1155729,129240,His Dark Materials trilogy,novel series by Philip Pullman,1155729,Scholastic Corporation,"American publishing, education and media company",123.0,book publisher
+129240,129240,136,1057172,129240,His Dark Materials trilogy,novel series by Philip Pullman,1057172,fantasy literature,literary genre,136.0,music genre
+129240,129240,407,1860,129240,His Dark Materials trilogy,novel series by Philip Pullman,1860,English,"West Germanic language originating in England with linguistic roots in French, German and Vulgar Latin",407.0,broadcasting language
+129240,129240,527,129929,129240,His Dark Materials trilogy,novel series by Philip Pullman,129929,The Amber Spyglass,2000 Book by Philip Pullman,527.0,formed from
+129240,129240,527,169976,129240,His Dark Materials trilogy,novel series by Philip Pullman,169976,Northern Lights,1995 Book by Philip Pullman,527.0,formed from
+129240,129240,527,472208,129240,His Dark Materials trilogy,novel series by Philip Pullman,472208,The Subtle Knife,1997 Book by Philip Pullman,527.0,formed from
+129240,129240,527,2261853,129240,His Dark Materials trilogy,novel series by Philip Pullman,2261853,Lyra's Oxford,book by Philip Pullman,527.0,formed from
+61448040,61448040,31,11424,61448040,Parasite,2019 film directed by Bong Joon Ho,11424,film,sequence of images that give the impression of movement,31.0,is a
+61448040,61448040,57,495980,61448040,Parasite,2019 film directed by Bong Joon Ho,495980,Bong Joon-ho,South Korean film director and screenwriter,57.0,directed by
+61448040,61448040,58,495980,61448040,Parasite,2019 film directed by Bong Joon Ho,495980,Bong Joon-ho,South Korean film director and screenwriter,58.0,scriptwriter
+61448040,61448040,86,19941076,61448040,Parasite,2019 film directed by Bong Joon Ho,19941076,Jeong Jae-il,,86.0,songwriter
+61448040,61448040,136,53094,61448040,Parasite,2019 film directed by Bong Joon Ho,53094,black comedy,comic work that employs black humor or gallows humor,136.0,music genre
+61448040,61448040,136,130232,61448040,Parasite,2019 film directed by Bong Joon Ho,130232,drama film,film genre,136.0,music genre
+61448040,61448040,136,157443,61448040,Parasite,2019 film directed by Bong Joon Ho,157443,comedy film,genre of film in which the main emphasis is on humour,136.0,music genre
+61448040,61448040,136,1257444,61448040,Parasite,2019 film directed by Bong Joon Ho,1257444,film adaptation,"films based on other media (books, plays, etc.)",136.0,music genre
+61448040,61448040,161,484400,61448040,Parasite,2019 film directed by Bong Joon Ho,484400,Song Kang-ho,South Korean actor,161.0,starring
+61448040,61448040,161,489681,61448040,Parasite,2019 film directed by Bong Joon Ho,489681,Lee Sun-kyun,South Korean actor,161.0,starring
+29564107,29564107,19,65,29564107,Billie Eilish,American singer-songwriter,65,Los Angeles,"county seat of Los Angeles County, California; second largest city in the United States by population",19.0,birthplace
+29564107,29564107,21,6581072,29564107,Billie Eilish,American singer-songwriter,6581072,female,human gender (use with P21),21.0,gender identity
+29564107,29564107,27,30,29564107,Billie Eilish,American singer-songwriter,30,United States of America,federal republic in North America,27.0,citizen of
+29564107,29564107,31,5,29564107,Billie Eilish,American singer-songwriter,5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+29564107,29564107,103,1860,29564107,Billie Eilish,American singer-songwriter,1860,English,"West Germanic language originating in England with linguistic roots in French, German and Vulgar Latin",103.0,first language
+29564107,29564107,106,36834,29564107,Billie Eilish,American singer-songwriter,36834,composer,"person who creates music, either by musical notation or oral tradition",106.0,profession
+29564107,29564107,106,177220,29564107,Billie Eilish,American singer-songwriter,177220,singer,person singing for a listening audience,106.0,profession
+29564107,29564107,106,488205,29564107,Billie Eilish,American singer-songwriter,488205,singer-songwriter,"musician who writes, composes and sings",106.0,profession
+29564107,29564107,106,753110,29564107,Billie Eilish,American singer-songwriter,753110,songwriter,person who writes the words or music (or both) to songs,106.0,profession
+29564107,29564107,106,5716684,29564107,Billie Eilish,American singer-songwriter,5716684,dancer,person who dances,106.0,profession
+55449345,55449345,31,7889,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,7889,video game,electronic game that involves interaction with a user interface to generate visual feedback on a video device such as a TV screen or computer monitor,31.0,is a
+55449345,55449345,57,2370953,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,2370953,Stig Asmussen,video game developer,57.0,directed by
+55449345,55449345,123,173941,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,173941,Electronic Arts,American interactive entertainment company,123.0,book publisher
+55449345,55449345,136,343568,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,343568,action-adventure game,video game genre,136.0,music genre
+55449345,55449345,178,7884447,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,7884447,Respawn Entertainment,American video game developer,178.0,developed by
+55449345,55449345,400,1406,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,1406,Microsoft Windows,"family of operating systems produced for personal computers, servers, smartphones and embedded devices",400.0,platforms
+55449345,55449345,400,5014725,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,5014725,PlayStation 4,eighth-generation and fourth home video game console developed by Sony Interactive Entertainment,400.0,platforms
+55449345,55449345,400,13361286,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,13361286,Xbox One,eighth-generation and third video game console developed by Microsoft,400.0,platforms
+55449345,55449345,404,208850,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,208850,single-player video game,video game that permits only one player,404.0,mode
+55449345,55449345,408,13156652,55449345,Star Wars Jedi: Fallen Order,2019 single-player action-adventure video game,13156652,Unreal Engine 4,video game engine,408.0,engine of software
+28022144,28022144,31,3467906,28022144,Amazon Alexa,intelligent personal assistant developed by Amazon.com's Lab126,3467906,virtual assistant,mobile software agent,31.0,is a
+28022144,28022144,166,858637,28022144,Amazon Alexa,intelligent personal assistant developed by Amazon.com's Lab126,858637,Big Brother Awards,humorous award,166.0,prize received
+28022144,28022144,178,3884,28022144,Amazon Alexa,intelligent personal assistant developed by Amazon.com's Lab126,3884,Amazon,American electronic commerce and cloud computing company,178.0,developed by
+28022144,28022144,306,94,28022144,Amazon Alexa,intelligent personal assistant developed by Amazon.com's Lab126,94,Android,open-source operating system for mobile devices created by Google,306.0,OS
+28022144,28022144,306,48493,28022144,Amazon Alexa,intelligent personal assistant developed by Amazon.com's Lab126,48493,iOS,mobile operating system by Apple,306.0,OS
+28022144,28022144,1535,18511815,28022144,Amazon Alexa,intelligent personal assistant developed by Amazon.com's Lab126,18511815,Amazon Echo,voice command device from Amazon,1535.0,user
+28022144,28022144,3985,21462856,28022144,Amazon Alexa,intelligent personal assistant developed by Amazon.com's Lab126,21462856,AWS Lambda,"event-driven, serverless computing platform provided by Amazon",,
+54289,54289,31,24286894,54289,Mandalorians,fictional multi-species warrior people in the Star Wars universe.,24286894,fictional humanoid species,coherent large group of humanoids,31.0,is a
+54289,54289,910,9499236,54289,Mandalorians,fictional multi-species warrior people in the Star Wars universe.,9499236,,Wikimedia category,910.0,main category
+54289,54289,1080,3551295,54289,Mandalorians,fictional multi-species warrior people in the Star Wars universe.,3551295,Star Wars expanded to other media,fictional background of the Star Wars universe outside of the feature films,1080.0,from universe
+2149888,2149888,19,1906737,2149888,Richard Jewell,American police officer,1906737,Danville,"town in Twiggs and Wilkinson counties, Georgia, United States",19.0,birthplace
+2149888,2149888,20,2208776,2149888,Richard Jewell,American police officer,2208776,Woodbury,"city in Meriwether County, Georgia, United States of America",20.0,deathplace
+2149888,2149888,21,6581097,2149888,Richard Jewell,American police officer,6581097,male,human gender (use with P21),21.0,gender identity
+2149888,2149888,27,30,2149888,Richard Jewell,American police officer,30,United States of America,federal republic in North America,27.0,citizen of
+2149888,2149888,31,5,2149888,Richard Jewell,American police officer,5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+2149888,2149888,106,82955,2149888,Richard Jewell,American police officer,82955,politician,"person involved in politics, person who holds or seeks positions in government",106.0,profession
+2149888,2149888,106,680928,2149888,Richard Jewell,American police officer,680928,guard,security profession,106.0,profession
+2149888,2149888,509,12152,2149888,Richard Jewell,American police officer,12152,myocardial infarction,interruption of blood supply to a part of the heart,509.0,method of murder
+2149888,2149888,509,12206,2149888,Richard Jewell,American police officer,12206,diabetes mellitus,group of metabolic disorders characterized by high blood sugar levels over a prolonged period,509.0,method of murder
+2149888,2149888,734,16277380,2149888,Richard Jewell,American police officer,16277380,Jewell,family name,734.0,last name
+949196,949196,19,868196,949196,Ken Miles,British racing driver,868196,Sutton Coldfield,"town, suburb of Birmingham, England",19.0,birthplace
+949196,949196,20,49243,949196,Ken Miles,British racing driver,49243,Riverside,"county seat of Riverside County, California, United States",20.0,deathplace
+949196,949196,21,6581097,949196,Ken Miles,British racing driver,6581097,male,human gender (use with P21),21.0,gender identity
+949196,949196,27,145,949196,Ken Miles,British racing driver,145,United Kingdom,constitutional monarchy in Western Europe; formed in 1927,27.0,citizen of
+949196,949196,31,5,949196,Ken Miles,British racing driver,5,human,"common name of Homo sapiens, unique extant species of the genus Homo",31.0,is a
+949196,949196,106,10349745,949196,Ken Miles,British racing driver,10349745,racing automobile driver,occupation driving an automobile in competition,106.0,profession
+949196,949196,166,1949998,949196,Ken Miles,British racing driver,1949998,Motorsports Hall of Fame of America,hall of fame for American motorsport personalities,166.0,prize received
+949196,949196,641,5386,949196,Ken Miles,British racing driver,5386,auto racing,motorsport involving the racing of cars for competition,641.0,sports
+949196,949196,734,13553902,949196,Ken Miles,British racing driver,13553902,Miles,family name,734.0,last name
+949196,949196,735,2645657,949196,Ken Miles,British racing driver,2645657,Ken,male given name,735.0,forename
+544,544,31,18613933,544,Solar System,planetary system of the Sun,18613933,Your Mom,366th strip of the webcomic xkcd,31.0,is a
+544,544,276,34457362,544,Solar System,planetary system of the Sun,34457362,inner and outer Solar System,classification of the Solar System,276.0,moveable object location
+544,544,361,817157,544,Solar System,planetary system of the Sun,817157,Local Interstellar Cloud,interstellar cloud in the Milky Way Galaxy,361.0,meronym of
+544,544,397,237284,544,Solar System,planetary system of the Sun,237284,Sagittarius A*,the supermassive black hole said to be the central massive object of the Milky Way Galaxy,397.0,parent body
+544,544,527,525,544,Solar System,planetary system of the Sun,525,Sun,star at the centre of the Solar System,527.0,formed from
+544,544,527,193275,544,Solar System,planetary system of the Sun,193275,small Solar System body,"object in the Solar System that is neither a planet, nor a dwarf planet, nor a satellite",527.0,formed from
+544,544,527,3962257,544,Solar System,planetary system of the Sun,3962257,outer solar system,"outer region of the Solar System, home to the giant planets and their nautral satellite, as well as comets, dwarf-planets and their natural satellites",527.0,formed from
+544,544,527,7879772,544,Solar System,planetary system of the Sun,7879772,Inner Solar System,"region of the Solar System comprising of Mercury, Venus, Earth and Mars with natural satellites, as well as the main-belt asteroids",527.0,formed from
+544,544,706,817157,544,Solar System,planetary system of the Sun,817157,Local Interstellar Cloud,interstellar cloud in the Milky Way Galaxy,706.0,takes place in
+544,544,706,18613933,544,Solar System,planetary system of the Sun,18613933,Your Mom,366th strip of the webcomic xkcd,706.0,takes place in
