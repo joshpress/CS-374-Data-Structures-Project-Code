@@ -16,8 +16,10 @@ class KnowledgeGraph:
     def __init__(self, csv_file):
         self.graph_csv = csv_file
         self.graph_df = pd.read_csv(self.graph_csv)
+        self.G = self.createKnowledgeGraph()  # networkx graph object
 
-    def getGraph(self):
+    # helper function for creating graph from dataframe
+    def createKnowledgeGraph(self):
 
         # build graph from the dataframe
         G = nx.from_pandas_edgelist(
@@ -49,27 +51,26 @@ class KnowledgeGraph:
 
     def renderGraph(self, font_size=12, file_name="knowledge_graph.html"):
 
-        G = self.getGraph()
-        #setting edge labels, data parameter is for source, target, edge label
-        #str is to fix an error where the graph wasn't rendering
-        for u, v, data in G.edges(data=True):
+        # setting edge labels, data parameter is for source, target, edge label
+        # str is to fix an error where the graph wasn't rendering
+        for u, v, data in self.G.edges(data=True):
             edge_label = data.get('en_alias', '')
             data["title"] = str(edge_label)
             data["label"] = str(edge_label)
             data["font"] = {"size": font_size}
 
-        #setting font size for nodes
-        for node_id, data in G.nodes(data=True):
+        # setting font size for nodes
+        for node_id, data in self.G.nodes(data=True):
             node_label = data.get('label', '')
             data["title"] = str(node_label)
             data["label"] = str(node_label)
             data["font"] = {"size": font_size}
 
-        pyvis_graph = Network(notebook=True, height='500px',
+        pyvis_graph = Network(notebook=True, height='800px',
                               width='100%', directed=True, cdn_resources='in_line')
-        pyvis_graph.from_nx(G)
+        pyvis_graph.from_nx(self.G)
         pyvis_graph.show_buttons(filter_=['physics'])
-        #this code helps fix the utf-8 error on windows
+        # this code helps fix the utf-8 error on windows
         html = pyvis_graph.generate_html()
         with open(file_name, 'w', encoding='utf-8') as f:
             f.write(html)
@@ -79,19 +80,21 @@ class KnowledgeGraph:
     def query(self, search_term, directed=False,
               search_limit=5, neighbor_limit=5, file_name="query_subgraph.html"):
 
-        G = self.getGraph()
+        # create a copy so the original graph isn't modified
+        G_temp = self.G.copy()
         # convert to undirected graph for easier traversal
         if not directed:
-            G = G.to_undirected()
+            G_temp = self.G.to_undirected()
         # get edge labels and map source to target
-        edge_labels = nx.get_edge_attributes(G, 'en_alias')
-        edge_label_map = {(u, v): label for (u, v), label in edge_labels.items()}
-        label_map = nx.get_node_attributes(G, 'label')
+        edge_labels = nx.get_edge_attributes(G_temp, 'en_alias')
+        edge_label_map = {(u, v): label for (
+            u, v), label in edge_labels.items()}
+        label_map = nx.get_node_attributes(G_temp, 'label')
 
         search_term = search_term.lower()
         matches = []
         for id, label in label_map.items():
-            #making sure the label is a string
+            # making sure the label is a string
             if isinstance(label, str) and search_term.lower() in label.lower():
                 matches.append(id)
 
@@ -101,7 +104,7 @@ class KnowledgeGraph:
             for node_id in matches[:search_limit]:
                 # add the node to the set of results
                 node_set.add(node_id)
-                neighbors = list(G.neighbors(node_id))
+                neighbors = list(G_temp.neighbors(node_id))
                 limited_neighbors = neighbors[:neighbor_limit]
                 print(
                     f"neighbors of '{label_map.get(node_id)}' (node id: {node_id}):")
@@ -115,7 +118,7 @@ class KnowledgeGraph:
                     print(
                         f"{label_map.get(neighbor)} id {neighbor}, edge alias: {alias}")
 
-            G_subgraph = G.subgraph(node_set)
+            G_subgraph = G_temp.subgraph(node_set)
             # setting edge labels
             for u, v, data in G_subgraph.edges(data=True):
                 edge_label = data.get('en_alias', '')
@@ -125,10 +128,8 @@ class KnowledgeGraph:
                                   width='100%', cdn_resources='in_line', directed=directed)
             pyvis_graph.from_nx(G_subgraph)
             pyvis_graph.show_buttons(filter_=['physics'])
-     
-     
-       
-            #saving as utf-8 again
+
+            # saving as utf-8 again
             html = pyvis_graph.generate_html()
             with open(file_name, 'w', encoding='utf-8') as f:
                 f.write(html)
