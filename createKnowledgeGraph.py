@@ -30,6 +30,7 @@ class KnowledgeGraph:
             create_using=nx.DiGraph()
         )
 
+        # renaming columns to make a label map
         source_df = self.graph_df[['source_item_id', 'en_label_src']]
         source_df = source_df.rename(
             columns={'source_item_id': 'id', 'en_label_src': 'label'})
@@ -48,7 +49,9 @@ class KnowledgeGraph:
         nx.set_edge_attributes(G, edge_label_map, 'en_alias')
 
         return G
+    
 
+    # renderGraph creates a visualization using pyvis, saved as an HTML file
     def renderGraph(self, font_size=12, file_name="knowledge_graph.html"):
 
         # setting edge labels, data parameter is for source, target, edge label
@@ -66,7 +69,8 @@ class KnowledgeGraph:
             data["label"] = str(node_label)
             data["font"] = {"size": font_size}
 
-        pyvis_graph = Network(notebook=True, height='800px',
+        # converting networkx graph to pyvis
+        pyvis_graph = Network(notebook=True, height='500px', 
                               width='100%', directed=True, cdn_resources='in_line')
         pyvis_graph.from_nx(self.G)
         pyvis_graph.show_buttons(filter_=['physics'])
@@ -77,6 +81,9 @@ class KnowledgeGraph:
 
         print(f"Graph rendered in '{file_name}'")
 
+    # query searches the graph for the term as well as its neighbors,
+    # undirected helps make the search more flexible
+    # result is a list of matches and a pyvis plot
     def query(self, search_term, directed=False,
               search_limit=5, neighbor_limit=5, file_name="query_subgraph.html"):
 
@@ -97,7 +104,7 @@ class KnowledgeGraph:
             # making sure the label is a string
             if isinstance(label, str) and search_term.lower() in label.lower():
                 matches.append(id)
-
+        # if we find a match, add it to the set
         if matches:
 
             node_set = set()
@@ -108,7 +115,7 @@ class KnowledgeGraph:
                 limited_neighbors = neighbors[:neighbor_limit]
                 print(
                     f"neighbors of '{label_map.get(node_id)}' (node id: {node_id}):")
-
+                # look at the neighbors of the node/successors for directed
                 for neighbor in limited_neighbors:
                     node_set.add(neighbor)
                     # look for both directions of the edge label
@@ -119,12 +126,12 @@ class KnowledgeGraph:
                         f"{label_map.get(neighbor)} id {neighbor}, edge alias: {alias}")
 
             G_subgraph = G_temp.subgraph(node_set)
-            # setting edge labels
+            # setting edge labels for the subgraph
             for u, v, data in G_subgraph.edges(data=True):
                 edge_label = data.get('en_alias', '')
                 data["title"] = str(edge_label)
                 data["label"] = str(edge_label)
-            pyvis_graph = Network(notebook=True, height='800px',
+            pyvis_graph = Network(notebook=True, height='500px',
                                   width='100%', cdn_resources='in_line', directed=directed)
             pyvis_graph.from_nx(G_subgraph)
             pyvis_graph.show_buttons(filter_=['physics'])
